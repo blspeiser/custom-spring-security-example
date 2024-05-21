@@ -31,11 +31,6 @@
       <artifactId>spring-boot-starter-test</artifactId>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>org.apfloat</groupId>
-      <artifactId>apfloat</artifactId>
-      <version>1.13.0</version>
-    </dependency>
   </dependencies>
   <build>
     <plugins>
